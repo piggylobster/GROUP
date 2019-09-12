@@ -1,7 +1,6 @@
 # GROUP
 
 
-p <- unzip("cleaned.zip")  
-p  
+unzip("cleaned.zip")   
 z = read.csv("./cleaned/cab_rides_omit.csv" )  
 z
